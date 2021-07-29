@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/p2ERzqkeEXtfJjUzBv/giphy.gif" align="right" width="400" height="200"> 
+<img src="https://giphy.com/gifs/adweek-nope-journalist-yellowstone-Ze4BXdrjDjygM9Piq0" align="right" width="400" height="200"> 
 
 
 ### Hi there, I'm Gamze.Welcome To My Github Profile. :blush:
