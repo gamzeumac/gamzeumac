@@ -1,6 +1,6 @@
 
 
-<image src="https://giphy.com/embed/Ze4BXdrjDjygM9Piq0" width="400" height="200" frameBorder="0"  align="right" class="giphy-embed" allowFullScreen /> <p><a href="https://giphy.com/gifs/adweek-nope-journalist-yellowstone-Ze4BXdrjDjygM9Piq0">via GIPHY</a></p>
+<image src="https://giphy.com/gifs/black-cinema-the-players-club-lisa-raye-11il9XRmW24Dni" width="400" height="200" frameBorder="0"  align="right" />
 ### Hi there, I'm Gamze.Welcome To My Github Profile. :blush:
 
 ## React developer | She tries to be better herself
