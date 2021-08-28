@@ -43,10 +43,7 @@
 </details>
 
 <br />
-<details>
-<summary> Wakatime Week Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gamzeumac">
-</details>
+
 
 
 [xing]:
